@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A particular and impartial account of a great fight in Ireland: and of the raising the siege of London-Derry, by the Protestants. Also a true relation of the malice and cruelty of the Irish Papists, in their burning Coleraine, Carrickfergus, and several other places of note, in their flight.</title>
+            <author>J. W.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10245</idno><idno type="EEBO-CITATION">80925137</idno>
+  <idno type="VID">192152</idno>
+  <idno type="EEBO-PROQUEST">2240869983</idno>
+  
+            <idno type="OCLC"> 80925137</idno>
+            <idno type="STC">Wing W60F</idno>
+            <idno type="STC">ESTC R186099</idno>
+            <idno type="OCLC">80925137</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B10245)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192152)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2901:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A particular and impartial account of a great fight in Ireland: and of the raising the siege of London-Derry, by the Protestants. Also a true relation of the malice and cruelty of the Irish Papists, in their burning Coleraine, Carrickfergus, and several other places of note, in their flight.</title>
+                  <author>J. W.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Lee, near Charing-Cross,</publisher>
+                  <pubPlace>London; :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licens'd and entred according to order."</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sieges --  Northern Ireland --  Derry --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+               <term type="geographic_name">Derry (Northern Ireland) --  History --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:192152:1"/>
+            <head>A Particular and Impartial ACCOUNT OF A <hi>Great Fight in Ireland:</hi> AND OF THE Raising the SIEGE OF LONDON-DERRY, By the Protestants, ALSO A True Relation of the Malice and Cruelty of the Irish Papists, in their burning <hi>Coleraine, Carrick<g ref="char:EOLhyphen"/>fergus,</hi> and several other Places of Note, in their FLIGHT.</head>
+            <p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <p>
+                              <hi>Licens'd and Entred according to Order.</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>ON Saturday last the <hi>Dartmouth</hi> Frigate left the <hi>Lough</hi> before <hi>London-Derry,</hi> being sent by Major-General <hi>Kirk,</hi> and Yesterday Morning she came into <hi>Hylake,</hi> and confirm'd the happy News of the Relief of <hi>London-Derry,</hi> that Day she came away.</p>
+                  <p>The Circumstances were, That Major-General <hi>Kirk</hi> having an Account sent him out, that the Town was in most miserable Distress, and by no means capable of holding out above one Week longer, and that they had for some considerable time before, fed up<g ref="char:EOLhyphen"/>on Cats, Dogs, Raw-Hides, and the like; and of that sort of Provision very scarce: And that there had already perished in the Town for want, and Sickness occasioned thereby, several hundreds of Souls: And that there was not in the Town then well, above three Thousand fighting Men. The Major-General resolved to hazard the loss of all for its Relief, sent three Ships with Provision, Ammunition, and four hundred Men to break the Boom, and on that side relieve it by Water, which God was pleased to bless with desired Success; for one of them fitted for that purpose running upon
+<pb facs="tcp:192152:2"/>the Boome, at one Streak made entrance for the rest to follow; however not without annoyance from the Forts, who destroyed some of their Men. In the mean time the Major-General resolved to try his Fortune by Land, and in order thereunto, at low Water, in three distinct Battalions, marched all the Forces he had got together in the Isle of <hi>Inch,</hi> into the Isle of <hi>Ennis<g ref="char:EOLhyphen"/>killing,</hi> wherein <hi>Derry</hi> stands; which the Papists perceiving, did not think fit to try <hi>Kirk's</hi> Kindness, but forthwith set all they were possessed of (which they could not carry with them) on Fire, and run away by the light of it, over <hi>Claudiford,</hi> to the rest of their Party on the other side, and left <hi>Kirk</hi> way clear, without Resistance, to march into <hi>Derry.</hi> But those brave Soules, tho almost famished, perceiving their Intent and Motion, resol<g ref="char:EOLhyphen"/>ved to pay their way, to those Cowardly and Bloody Men, and upon their Retreate Issued out of the Town, and with that Force and Bravery fell up<g ref="char:EOLhyphen"/>on them, that they Kil'd more then their own Number, and put them into such Consternation that many of their Enemies were drowned by their hast to get over the River.</p>
+                  <p>While these were in this Flight, their other Party, on the otherside of the River, blew up the Fort, and as the others had done before, set all on fire and so marched thence with the loss of 20000 Men, (as is believed) since their first sitting down before that Invincible place; which must needs be conceived purely to be preserved by Divine Providence only; when in kil<g ref="char:EOLhyphen"/>ling so many of their Enemy, they had not kill'd of the Town above 50 Persons; but all the loss they have had, has been for want, and by Sick<g ref="char:EOLhyphen"/>ness: But the greatest Providence was, that when all Relief had failed them, and those poor Souls reduced to the brink of Extremity, that God was pleased to make, even their very Enemies most mischeivous Designs produce Food, out of their fiery Engines, to feed those poor Distressed and Starving Persons; thus when they were even just ready to fall upon and Eat one another rather than fall into their Enemies Hands; A Bomb, shot by the Enemy into the Town, fell into the house of a Papist, and, as if designed by Heaven, tore with that Violence that none before ever had done there, till it at length found out and made way into a larg Vault, long before fill'd, and made privately up, with Provision, by (as its thought) their late Governour <hi>Lundee;</hi> wherein they thus found (before they got any other in their greatest Extremity) Provision enough to enable them to hold out a Month longer, than through Mercy they found occasion for.</p>
+                  <p>It is worthy Observation, that by the account they had in <hi>Dublin</hi> of the Raising the Siege of <hi>Derry</hi> 2 Days before it was done, which I before sent you that it was Intended, tho not then done, for fear of an Invasion from <hi>England.</hi> There hath been 5 or 6 other Acts past in <hi>Ireland,</hi> besides what I sent you last; of which these are Part, 1st. To take away the be<g ref="char:EOLhyphen"/>nefit of the Clergy from Thieves and Robbers. 2d. To seize the effects of all Absentees. 3d. To take away St. <hi>Andrews</hi> Church in <hi>Dublin,</hi> as being built upon Absentees Land. So well doth King <hi>James</hi> keep his Word in preserving the Church of <hi>England.</hi>
+                  </p>
+                  <p>The Papists that were prison'd in this Town, in the Castle, upon some new ploting found among them, are sent from thence to a other Prison in the City. And the Mayor of <hi>Liverpool</hi> with 3 or 4 others in that place are suspected, and some say Apprehended and taken into Custody, for some undue practices and Contrivances against the Government.</p>
+                  <p>Food was so scarce at <hi>London-Derry,</hi> that a Dogs-head was sold for seven Shillings.</p>
+                  <closer>
+                     <signed>I am Yours, <hi>J. W.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London;</hi> Printed for <hi>W. Lee,</hi> near <hi>Charing-Cross,</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
